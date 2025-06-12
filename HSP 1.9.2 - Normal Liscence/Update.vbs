@@ -1,0 +1,1 @@
+msgbox "Connection au serveur impossible.",vbCritical,"Erreur"
